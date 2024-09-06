@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.review_container{
+    background-image: url("https://img.freepik.com/free-vector/pastel-ombre-background-pink-purple_53876-120750.jpg?w=996&t=st=1725618938~exp=1725619538~hmac=41aa2fa561a0249119f5de4d32e125b9bdaaf783e528b35c5a22734f3f66d2be");
+    height:100vh;
+    background-size: cover;
+}
+
+.main-heading{
+    color:#2d3a35;
+    font-family:"Roboto";
+    padding:8px;
+    font-weight:bold;
+    text-align: center;
+    margin: 5px;
+}
+.input_box_style{
+    background-color: rgb(214, 214, 239);
+    border-color: rgb(61, 119, 169);
+    border-radius: 10px;
+    border-width: 0.5px;
+}
+
+.labels {
+    color: #4e5d6c;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 6px;
+    margin-top: 19px;
+}
+.movie_title1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+
+}
